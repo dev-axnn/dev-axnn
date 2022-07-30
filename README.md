@@ -6,7 +6,7 @@
 7년차 시각·편집디자이너에서 더 성장하기 위해
 공부중인 예비프론트엔드개발자입니다.
 
-</hr>
+</br>
 
 ### Tech Stack
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>
