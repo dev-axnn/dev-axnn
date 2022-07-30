@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=b57bde&height=400&section=header&text=Hello%20I'm%20Ahn-fff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=b57bde&height=400&section=header&text=Hello%20I'm%20Ahn&fontSize=90&color=fff)
 
 ### How to Contact with Ahn ?
 - 📫 E-mail : cken94@daum.net
