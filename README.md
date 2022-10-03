@@ -20,3 +20,4 @@
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><br/>
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Illustrator-FF3366?style=flat-square&logo=Adobe-InDesign&logoColor=white"/></a>
