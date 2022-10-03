@@ -22,4 +22,4 @@
 <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Illustrator-FF3366?style=flat-square&logo=Adobe-InDesign&logoColor=white"/></a>
 
-![AHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-axnn&show_icons=true&theme=radical)
+![AHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-axnn&show_icons=true&theme=radical) 
