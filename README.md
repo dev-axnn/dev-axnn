@@ -1,7 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b57bde&height=400&section=header&text=Hello%20I'm%20Ahn&fontSize=90)
 
 ### How to Contact with Ahn ?
-- 📫 E-mail : cken94@daum.net
+- 📫 E-mail : dev.axnn@gmail.com
+- 🗨 KakaoOpenChat : https://open.kakao.com/o/sGxW4jDe
 - 💬 만나서 반갑습니다!
 7년차 시각·편집디자이너에서 더 성장하기 위해
 공부중인 예비프론트엔드개발자입니다.
