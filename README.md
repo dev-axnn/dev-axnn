@@ -23,21 +23,3 @@
 <img src="https://img.shields.io/badge/Illustrator-FF3366?style=flat-square&logo=Adobe-InDesign&logoColor=white"/></a>
 
 ![AHN's GitHub stats](https://github-readme-stats.vercel.app/api?username=dev-axnn&show_icons=true&theme=radical)
-
-name: Update gist
-on:
-  push:
-    branches:
-      - master
-  schedule:
-    - cron: "0 0 * * *"
-jobs:
-  update-gist:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Update gist
-        uses: maxam2017/productive-box@master
-        env:
-          GH_TOKEN: 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
-          GIST_ID: https://gist.github.com/dev-axnn/
-          TIMEZONE: Asia/Seoul
