@@ -18,5 +18,5 @@
 <img src="https://img.shields.io/badge/Vue.js-00851f?style=flat-square&logo=Vue.js&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Figma-00baff?style=flat-square&logo=Figma&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a><br/>
-<img src="https://img.shields.io/badge/Vue.js-00851f?style=flat-square&logo=Vue.js&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Adobe-Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=Adobe-Photoshop&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=Adobe-Illustrator&logoColor=white"/></a>
