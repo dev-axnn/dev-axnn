@@ -1,6 +1,6 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=b57bde&height=400&section=header&text=Hello%20I'm%20Ahn&fontSize=90) -->
 
-<img src="https://media.discordapp.net/attachments/1026310132029739121/1026767813114871839/1664870806885.png" width="100%" />
+<img src="https://media.discordapp.net/attachments/1026310132029739121/1026768952208138270/1664871168362.png" width="100%" />
 
 ### How to Contact with Ahn ?
 - 📫 E-mail : dev.axnn@gmail.com
