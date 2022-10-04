@@ -1,5 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=b57bde&height=400&section=header&text=Hello%20I'm%20Ahn&fontSize=90)
 
+<img src="https://www.notion.so/About-AHN-c8f205d3a2a54202b0178972634b18f9#d4fbf74f74704e91aa069b30987118cf" />
+
 ### How to Contact with Ahn ?
 - 📫 E-mail : dev.axnn@gmail.com
 - 👁‍🗨 Portfolio : https://dev-axnn.github.io/
